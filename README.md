@@ -1,5 +1,5 @@
 # Feature-Selection
-Deciding, whcih feature(Predcitor/Variable) is important(relevant) for our model.
+Deciding, which feature(Predcitor/Variable) is important(relevant) for our model.
 
 
 Feature Selection is a process in which we decide which feature is relevant for our model.
